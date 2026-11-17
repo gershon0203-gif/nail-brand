@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Kitchen and dining product">
+<rect width="600" height="600" fill="#F4EDE2"/>
+<circle cx="300" cy="300" r="210" fill="#EAE0D1"/>
+<path d="M210 235h180l-18 210H228z" fill="#FDFBF7" stroke="#8B7A63" stroke-width="6"/>
+<path d="M390 275c58 0 58 76 0 76" fill="none" stroke="#8B7A63" stroke-width="12"/>
+<path d="M255 300c0-26 18-44 45-44s45 18 45 44" fill="none" stroke="#B96B3C" stroke-width="7"/>
+<rect x="150" y="452" width="300" height="14" rx="7" fill="#8B7A63" opacity=".45"/>
+</svg>

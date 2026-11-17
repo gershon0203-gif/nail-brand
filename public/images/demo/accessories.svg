@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Accessories product">
+<rect width="600" height="600" fill="#F3EEE8"/>
+<circle cx="300" cy="300" r="210" fill="#E9E2D7"/>
+<rect x="222" y="244" width="156" height="140" rx="20" fill="#FDFBF7" stroke="#7A6A55" stroke-width="6"/>
+<path d="M222 300h156" stroke="#7A6A55" stroke-width="6"/>
+<rect x="290" y="286" width="28" height="28" rx="6" fill="#A98C63"/>
+<path d="M252 244v140" stroke="#7A6A55" stroke-width="4" opacity=".6"/>
+</svg>

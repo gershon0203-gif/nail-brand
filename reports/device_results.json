@@ -1,0 +1,274 @@
+{
+  "device": {
+    "browser": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Mobile Safari/537.36",
+    "language": "en-IN",
+    "onLine": true
+  },
+  "pages": {
+    "home": {
+      "viewport": {
+        "innerWidth": 391,
+        "innerHeight": 757,
+        "dpr": 2,
+        "scrollWidth": 391,
+        "scrollHeight": 9414,
+        "overflowX": false,
+        "bodyText": "Norwood & Co.\nSign in\nCreate account\n\nLOCAL \u00b7 CURATED \u00b7 EVERYDAY\n\nThoughtful goods,\nclose to home.\n\nDiscover a considered collection of home, kitchen and lifestyle essentials \u2014 chosen for quality, made to be used, and served with a personal touch.\n\nSearch\nLocal delivery\nCash on Delivery\nReal custome"
+      },
+      "images": {
+        "total": 34,
+        "loaded": 30,
+        "broken": []
+      },
+      "touchTargets": {
+        "total": 131,
+        "smallCount": 17,
+        "smallExamples": [
+          {
+            "tag": "A",
+            "text": "All categories",
+            "h": 20,
+            "w": 117
+          },
+          {
+            "tag": "A",
+            "text": "View all",
+            "h": 20,
+            "w": 77
+          },
+          {
+            "tag": "A",
+            "text": "Shop the collection",
+            "h": 20,
+            "w": 154
+          },
+          {
+            "tag": "A",
+            "text": "Talk to us",
+            "h": 20,
+            "w": 89
+          },
+          {
+            "tag": "A",
+            "text": "See everything",
+            "h": 20,
+            "w": 126
+          },
+          {
+            "tag": "A",
+            "text": "Shop best sellers",
+            "h": 20,
+            "w": 140
+          },
+          {
+            "tag": "A",
+            "text": "All products",
+            "h": 17,
+            "w": 79
+          },
+          {
+            "tag": "A",
+            "text": "Categories",
+            "h": 17,
+            "w": 72
+          }
+        ]
+      },
+      "overflowElements": [
+        {
+          "tag": "DIV",
+          "cls": "absolute -right-20 -top-32 h-[36rem] w-[36rem] rounded-full bg-forest-500 blur-3",
+          "right": 440,
+          "left": -136
+        },
+        {
+          "tag": "DIV",
+          "cls": "absolute -bottom-40 left-1/4 h-[28rem] w-[28rem] rounded-full bg-clay-500 blur-3",
+          "right": 538,
+          "left": 90
+        }
+      ],
+      "demoBanner": false,
+      "title": "Norwood & Co. \u2014 Thoughtful goods, close to home"
+    },
+    "products": {
+      "clickedNav": true,
+      "url": "http://localhost:5173/products",
+      "viewport": {
+        "innerWidth": 391,
+        "innerHeight": 757,
+        "dpr": 2,
+        "scrollWidth": 391,
+        "scrollHeight": 3948,
+        "overflowX": false,
+        "bodyText": "Norwood & Co.\nHome\n\nTHE COLLECTION\n\nAll products\n\nBrowse our full range of thoughtfully chosen everyday goods. Filter by category, price or highlights to find exactly what you need.\n\nAll products\n\u00b7\n200 items\nFilters\nNewest first\nMost popular\nPrice: low to high\nPrice: high to low\nName: A\u2013Z\nFeatured\n\n"
+      },
+      "grid": {
+        "cardCount": 12,
+        "columns": 2,
+        "lefts": [
+          16,
+          186
+        ],
+        "firstCards": [
+          {
+            "w": 158,
+            "h": 371
+          },
+          {
+            "w": 158,
+            "h": 371
+          },
+          {
+            "w": 158,
+            "h": 371
+          },
+          {
+            "w": 158,
+            "h": 371
+          },
+          {
+            "w": 158,
+            "h": 371
+          },
+          {
+            "w": 158,
+            "h": 371
+          }
+        ],
+        "overflowX": false
+      },
+      "images": {
+        "total": 12,
+        "loaded": 12,
+        "broken": []
+      },
+      "overflowElements": [],
+      "hasFilterButton": true,
+      "cardSample": [
+        "Featured\n\nKITCHEN & DINING\n\nClassic Stoneware Mug \u2014 Sand\n$177.90\n\nIn stock\n\nAdd to cart",
+        "KITCHEN & DINING\n\nEveryday Oak Serving Board \u2014 Olive\n$22.30\n\nIn stock\n\nAdd to cart"
+      ]
+    },
+    "product_detail": {
+      "clickedCard": true,
+      "url": "http://localhost:5173/products/classic-stoneware-mug-sand-1",
+      "viewport": {
+        "innerWidth": 391,
+        "innerHeight": 757,
+        "dpr": 2,
+        "scrollWidth": 391,
+        "scrollHeight": 3787,
+        "overflowX": false,
+        "bodyText": "Norwood & Co.\nHome\nProducts\nKitchen & Dining\nClassic Stoneware Mug \u2014 Sand\nKITCHEN & DINING\n\u00b7\nSKU NW-1000\nClassic Stoneware Mug \u2014 Sand\n\nConsidered essentials for the everyday table. Available in sand finish.\n\n$177.90\n\nIn stock \u2014 ready to ship\n\n1\nAdd to cart\nBuy now\n\nLocal delivery\n\nCarefully packed a"
+      },
+      "images": {
+        "total": 8,
+        "loaded": 8,
+        "broken": []
+      },
+      "hasQuantity": true,
+      "hasAddToCart": true,
+      "overflowElements": []
+    },
+    "cart": {
+      "url": "http://localhost:5173/cart",
+      "viewport": {
+        "innerWidth": 391,
+        "innerHeight": 757,
+        "dpr": 2,
+        "scrollWidth": 391,
+        "scrollHeight": 1859,
+        "overflowX": false,
+        "bodyText": "DEMO PREVIEW MODE \u2014 Catalogue shown from in-memory sample data. Auth, cart persistence, orders and uploads require a configured Supabase project.\nNorwood & Co.\nHome\nShopping cart\n\nALMOST THERE\n\nShopping cart\n\n0 items in your cart\n\nYour cart is empty\n\nBrowse the collection and add something you love."
+      },
+      "emptyState": true,
+      "overflowElements": []
+    },
+    "login": {
+      "url": "http://localhost:5173/login",
+      "viewport": {
+        "innerWidth": 391,
+        "innerHeight": 757,
+        "dpr": 2,
+        "scrollWidth": 391,
+        "scrollHeight": 2088,
+        "overflowX": false,
+        "bodyText": "DEMO PREVIEW MODE \u2014 Catalogue shown from in-memory sample data. Auth, cart persistence, orders and uploads require a configured Supabase project.\nNorwood & Co.\nNorwood & Co.\nWelcome back\n\nSign in to access your orders, addresses and saved cart.\n\nEmail address*\nPassword*\nForgot your password?\nSign in"
+      },
+      "hasDemoPanel": true,
+      "inputs": 2,
+      "touchTargets": {
+        "total": 27,
+        "smallCount": 15,
+        "smallExamples": [
+          {
+            "tag": "BUTTON",
+            "text": "Dismiss demo notice",
+            "h": 14,
+            "w": 14
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Show password",
+            "h": 16,
+            "w": 16
+          },
+          {
+            "tag": "A",
+            "text": "Forgot your password?",
+            "h": 15,
+            "w": 132
+          },
+          {
+            "tag": "A",
+            "text": "Create an account",
+            "h": 17,
+            "w": 124
+          },
+          {
+            "tag": "A",
+            "text": "All products",
+            "h": 17,
+            "w": 79
+          },
+          {
+            "tag": "A",
+            "text": "Categories",
+            "h": 17,
+            "w": 72
+          },
+          {
+            "tag": "A",
+            "text": "Kitchen & Dining",
+            "h": 17,
+            "w": 109
+          },
+          {
+            "tag": "A",
+            "text": "Home Decor",
+            "h": 17,
+            "w": 83
+          }
+        ]
+      },
+      "overflowElements": []
+    },
+    "admin_guard": {
+      "url": "http://localhost:5173/login",
+      "redirectedToLogin": true,
+      "text": "DEMO PREVIEW MODE \u2014 Catalogue shown from in-memory sample data. Auth, cart persistence, orders and uploads require a configured Supabase project.\nNorwood & Co.\nNorwood & Co.\nWelcome back\n\nSign in to a"
+    }
+  },
+  "console_errors": [
+    "error: Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "network_failures": [],
+  "screenshots": [
+    "reports/screenshots/01_home_real_device.png",
+    "reports/screenshots/02_products_real_device.png",
+    "reports/screenshots/03_product_detail_real_device.png",
+    "reports/screenshots/04_cart_real_device.png",
+    "reports/screenshots/05_login_real_device.png"
+  ]
+}

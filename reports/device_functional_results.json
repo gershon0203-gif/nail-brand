@@ -1,0 +1,40 @@
+{
+  "mode": "DEMO UI ONLY - Supabase credentials absent",
+  "steps": {
+    "products_load": true,
+    "sort_changed": true,
+    "sort_result": {
+      "before": "Featured\n\nKITCHEN & DINING\n\nClassic Stoneware Mug \u2014 Sand\n$177.90\n\nIn stock\n\nAdd ",
+      "after": "Featured\n\nHOME DECOR\n\nHeritage Ceramic Vase \u2014 Ash\n$12.06\n\nIn stock\n\nAdd to cart",
+      "changed": true
+    },
+    "filter_clicked": true,
+    "filter_modal_visible": false,
+    "search_submit": false,
+    "search_url": "http://localhost:5173/products",
+    "search_results": 12,
+    "demo_signin_clicked": true,
+    "after_signin_url": "/",
+    "account_menu_has_profile": true,
+    "add_to_cart_clicked": true,
+    "cart_badge": "Shopping cart, 0 items",
+    "toast_added": false,
+    "cart_items": false,
+    "increase_clicked": false,
+    "qty_after_increase": "1",
+    "decrease_clicked": false,
+    "remove_clicked": false,
+    "cart_empty_after_remove": true,
+    "addresses_demo_notice": false,
+    "add_address_disabled": false,
+    "checkout_demo_notice": false,
+    "place_order_disabled": false,
+    "admin_redirected": true,
+    "demo_admin_clicked": true,
+    "admin_url_after_login": "/admin",
+    "admin_dashboard_text": "Admin\nSuper Admin\nOverview\nProducts\nCategories\nOrders\nCustomers\n\nOVERVIEW\n\nDashboard\n\nA quick view of how your store is doing.\n\n200\n\nTotal products\n\n0\n\nTotal cu"
+  },
+  "console_errors": [
+    "WebSocket connection to 'ws://localhost:5173/?token=vp3LDM5TlMhH' failed: Page entered Back-Forward Cache."
+  ]
+}

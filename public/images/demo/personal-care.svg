@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Personal care product">
+<rect width="600" height="600" fill="#F5EFEC"/>
+<circle cx="300" cy="300" r="210" fill="#EBE0DA"/>
+<rect x="228" y="250" width="144" height="200" rx="18" fill="#FDFBF7" stroke="#9B7261" stroke-width="6"/>
+<rect x="258" y="212" width="84" height="40" rx="10" fill="#B98A76"/>
+<path d="M262 330h76M262 358h56" stroke="#9B7261" stroke-width="7" stroke-linecap="round"/>
+<rect x="150" y="462" width="300" height="14" rx="7" fill="#9B7261" opacity=".35"/>
+</svg>

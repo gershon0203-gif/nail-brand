@@ -1,0 +1,17 @@
+{
+  "diag": {
+    "on_login": true,
+    "signin_click": true,
+    "after_signin": true,
+    "search_form_present": true
+  },
+  "search_toggle_click": true,
+  "search_form_role": "search",
+  "filter_click": true,
+  "filter_modal": true,
+  "add_click": true,
+  "badge_after_add": "Shopping cart, 1 items",
+  "remove_clicked": true,
+  "cart_empty_after_remove": true,
+  "badge_after_remove": "Shopping cart, 0 items"
+}

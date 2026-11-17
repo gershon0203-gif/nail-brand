@@ -1,0 +1,7 @@
+﻿python : Target tab http://localhost:5173/ not found. Open it on the device first.
+At line:1 char:1
++ python reports/tools/cdp_device_test.py 2>&1 | Out-File 'reports\devi ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Target tab http...e device first.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

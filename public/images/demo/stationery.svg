@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Stationery product">
+<rect width="600" height="600" fill="#F2F0E9"/>
+<circle cx="300" cy="300" r="210" fill="#E7E4D8"/>
+<rect x="212" y="222" width="176" height="190" rx="10" fill="#FDFBF7" stroke="#6B6455" stroke-width="6"/>
+<path d="M240 222v190" stroke="#B96B3C" stroke-width="10"/>
+<path d="M272 280h84M272 312h84M272 344h56" stroke="#9A9486" stroke-width="7" stroke-linecap="round"/>
+</svg>

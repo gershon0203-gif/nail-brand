@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Product lifestyle view">
+<rect width="600" height="600" fill="#F5F2EC"/>
+<rect x="0" y="400" width="600" height="200" fill="#EAE4D8"/>
+<circle cx="300" cy="280" r="150" fill="#EDE8DE"/>
+<path d="M240 400V300c0-45 27-72 60-72s60 27 60 72v100z" fill="#FDFBF7" stroke="#7A6F5E" stroke-width="6"/>
+<path d="M180 400h240" stroke="#7A6F5E" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+</svg>

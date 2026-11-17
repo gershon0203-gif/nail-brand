@@ -1,0 +1,112 @@
+﻿PATH /products
+FILTER BUTTONS [{'t': 'Filters', 'h': '<button type="button" class="inline-flex h-10 items-center gap-2 rounded-lg border border-stone-300 px-3 text-xs font-semibold text-ink-700 lg:hidden"><svg xmlns="http://www.w3.org/2000/svg" width="24'}]
+CLICK True
+AFTER CLICK BODY 
+
+Heritage Linen Tea Towel ù Sand
+$98.22
+$109.13
+
+In stock
+
+Add to cart
+-15%
+Featured
+
+KITCHEN & DINING
+
+Studio Ceramic Bowl ù Olive
+$158.84
+$186.87
+
+In stock
+
+Add to cart
+
+KITCHEN & DINING
+
+Natural Copper Saucepan ù Ash
+$159.81
+
+In stock
+
+Add to cart
+-25%
+
+KITCHEN & DINING
+
+Signature Glass Carafe ù Clay
+$33.17
+$44.23
+
+In stock
+
+Add to cart
+1
+2
+3
+4
+à
+17
+Filters
+
+Refine your results
+
+CATEGORIES
+All categories
+Kitchen & Dining
+Home Decor
+Personal Care
+Apparel
+Accessories
+Stationery
+Wellness
+Outdoor
+PRICE RANGE
+û
+Under $25
+$25 û $50
+$50 û $100
+$100 & above
+HIGHLIGHTS
+Featured products only
+Clear all filters
+
+Need help choosing?
+
+Our local team is happy to recommend the right piece.
+
+Get in touch
+Show results
+Norwood & Co.
+
+Thoughtful goods, close to home. Curated essentials, honest materials and service with a personal touch.
+
+128 Willow Lane, Old Town District, Springfield
+
++1 (555) 010-2040
+
+hello@norwoodandco.example
+
+SHOP
+All products
+Categories
+Kitchen & Dining
+Home Decor
+CUSTOMER CARE
+Contact us
+My orders
+Addresses
+My profile
+ABOUT
+Our story
+Privacy policy
+Terms & conditions
+
+⌐ 2026 Norwood & Co.. All rights reserved.
+
+Cash on Delivery available ╖ Secure checkout ╖ Local support
+DIALOGS ['Filters\n\nRefine your results\n\nCATEGORIES\nAll categories\nKitchen & Dining\nHome Decor\nPersonal Care\nApparel\nAccessories\nStationery\nWellness\nOutdoor\nPRICE RANGE\nû\nUnder $25\n$25 û $50\n$50 û $100\n$100 & above\nHIGHLIGHTS\nFeatured products only\nClear all filters\n\nNeed help choosing?\n\nOur local team is happ']
+SEARCH BTN ['<button type="button" aria-label="Search" class="rounded-lg p-2.5 text-ink-700 transition hover:bg-stone-100"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="n']
+SEARCH CLICK True
+FORMS [{'role': None, 'html': '<form class="border-t border-stone-200 bg-white px-4 py-3 lg:hidden"><input placeholder="Search productsà" aria-label="Search products" class="h-11 w-full rounded-lg border border-'}]

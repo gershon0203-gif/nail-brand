@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Outdoor product">
+<rect width="600" height="600" fill="#F1EDE4"/>
+<circle cx="300" cy="300" r="210" fill="#E7DFCE"/>
+<path d="M210 330l90-90 90 90-90 90z" fill="#FDFBF7" stroke="#7C6E52" stroke-width="6"/>
+<path d="M300 240v180M210 330h180" stroke="#7C6E52" stroke-width="5"/>
+<path d="M390 240c40 0 40 60 0 60" fill="none" stroke="#7C6E52" stroke-width="10"/>
+</svg>

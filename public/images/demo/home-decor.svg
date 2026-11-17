@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-label="Home decor product">
+<rect width="600" height="600" fill="#EFEFE9"/>
+<circle cx="300" cy="300" r="210" fill="#E3E5DB"/>
+<path d="M250 430V300c0-55 22-84 50-84s50 29 50 84v130z" fill="#FDFBF7" stroke="#5E6B57" stroke-width="6"/>
+<path d="M270 210h60l-12-34h-36z" fill="#8A9A7E"/>
+<path d="M300 176c-34-22-56-12-56-12M300 176c34-22 56-12 56-12" fill="none" stroke="#5E6B57" stroke-width="6" stroke-linecap="round"/>
+<rect x="150" y="452" width="300" height="14" rx="7" fill="#5E6B57" opacity=".35"/>
+</svg>
